@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://pin.it/4ce4O06ea">
+  <img height="200" src="https://pin.it/7aLoOKZHL"  />
 </div>
 
 ###
@@ -35,8 +35,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lakshmisri4&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=merko&locale=en&hide_border=false&order=1&custom_title=Stats%20%F0%9F%A7%A9" height="151" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lakshmisri4&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=merko&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=lakshmisri4&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1&custom_title=Stats%20" height="151" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lakshmisri4&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
