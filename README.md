@@ -1,8 +1,3 @@
-<div align="center">
-  <img height="200" width="500" src="https://i.pinimg.com/originals/15/52/4f/15524fc97da1deb992c00abdab295b1f.gif"  />
-</div>
-
-###
 
 <h2 align="left">Hey there 👋🏼 !!</h2>
 
