@@ -3,7 +3,7 @@
 
 ###
 
-<p align="left">I'm Lakshmi Sri, currently pursuing B.E computer science engineering (2nd year), My favourite language to work with is Java and i am very passioate about it.</p>
+<p align="left">I'm Lakshmi Sri, currently pursuing B.E computer science engineering (2nd year), My favourite language to work with is Java and i am very passionate about it.</p>
 
 ###
 
