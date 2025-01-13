@@ -46,3 +46,7 @@
 </div>
 
 ###
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lakshmisri4&layout=compact&bg_color=0D1117&title_color=d57fc0&text_color=C9D1D9&icon_color=7fdc80&border_color=30363D)](https://github.com/anuraghazra/github-readme-stats)
+
+
