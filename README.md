@@ -44,5 +44,6 @@
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="discord logo"  />
   </a>
 </div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lakshmisri4)](https://github.com/lakshmisri4/github-readme-stats)
 
 ###
